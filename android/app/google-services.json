@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "819842624612",
+    "project_id": "meetx-4d090",
+    "storage_bucket": "meetx-4d090.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819842624612:android:4ec9ce096a91196f99c371",
+        "android_client_info": {
+          "package_name": "com.example.meetx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819842624612-84u0j1mq34n3vmcf82ks4bv8cq35dadg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqHDfP119Ol5JlOuPbhuiAzmX7Zp0QDbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819842624612-84u0j1mq34n3vmcf82ks4bv8cq35dadg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "819842624612-e113st3q2s6nth574cv0latr7b0902ep.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.meetx.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
